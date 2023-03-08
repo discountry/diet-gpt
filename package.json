@@ -1,7 +1,7 @@
 {
   "name": "diet-gpt",
   "version": "5.0.4",
-  "description": "A healthy diet helper right in your browser",
+  "description": "A healthy diet helper right in your browser.",
   "license": "MIT",
   "repository": {
     "type": "git",
